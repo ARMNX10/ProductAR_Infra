@@ -9,22 +9,6 @@ This application reads customer orders data from a CSV file and performs various
 3. Compute total revenue by customer.
 4. Identify top 10 customers by revenue.
 
-## Project Structure
-
-my_project/
-│
-├── Dockerfile
-├── Dockerfile.test
-├── docker-compose.yml 
-├── requirements.txt 
-├── src/
-│ ├── main.py 
-│ ├── data_processing.py 
-│ ├── test_data_processing.py 
-│ └── orders.csv
-└── README.md 
-
-
 ## Architecture
 
 ### Services
